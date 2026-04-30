@@ -1,29 +1,27 @@
 # Investment Brain — Master Index
 ### Source: SOIC (School of Intrinsic Compounding) — 73 Webinar PDFs
-### Built: May 2026 | Total: ~950KB, 18,000+ lines across 33 files
+### Built: May 2026 | Total: ~950KB, 18,000+ lines across 15 files
 
 ---
 
 ## Quick Navigation
 
-| Topic | File(s) |
-|-------|---------|
-| Financial Statements (P&L, BS, CF) | `01`, `02` |
-| Valuation frameworks | `03` |
-| When to Buy | `06`, `06_part1` |
-| When to Sell / Decision Making | `04` |
-| Moats & Competitive Advantage | `05_moats_part1`, `05_highly_moated`, `05_moated_companies` |
-| Investing Checklist & Forensics | `07` |
-| Capital Allocation & Value Chains | `09` |
-| Banking, NBFCs, Insurance | `08` |
-| Chemicals & Pharma | `10a_p1`, `10a_p2`, `10a_p3`, `10b`, `10c` |
-| Healthcare, Biotech, Hospitals | `11` |
-| Energy, Metals, Oil & Gas | `12`, `12c` |
-| Industrials, Shipping, Defense | `13`, `13k`, `13l` |
-| Identifying Next Business Leg | `13c3a`, `13c3b1`, `13c3b2`, `13c3b3`, `13c3c` |
-| Consumer: Real Estate, Hotels, Alcohol, LGD, CV | `14` |
-| SaaS Metrics | `14c` |
-| Sector Rotation | `14d` |
+| Topic | File |
+|-------|------|
+| Financial Statements (P&L, BS, CF) | `01_financial_statements.md` |
+| Key Ratios, Modelling, Annual Report | `02_ratios_and_annual_report.md` |
+| Valuation frameworks | `03_valuation.md` |
+| When to Sell / Decision Making | `04_sell_and_decisions.md` |
+| Moats & Competitive Advantage | `05_moats.md` |
+| When to Buy | `06_when_to_buy.md` |
+| Investing Checklist & Forensics | `07_checklists_forensics_tools.md` |
+| Banking, NBFCs, Insurance | `08_banking_nbfc_insurance.md` |
+| Capital Allocation & Value Chains | `09_capital_value_chains_platform.md` |
+| Chemicals, Pharma, Agro, CDMO | `10_chemicals_pharma.md` |
+| Healthcare, Biotech, Hospitals | `11_healthcare_biotech.md` |
+| Energy, Metals, Oil & Gas | `12_energy_resources.md` |
+| Industrials, Shipping, Defense, Next Leg | `13_industrials_defense.md` |
+| Consumer, SaaS, Sector Rotation | `14_consumer_saas.md` |
 
 ---
 
